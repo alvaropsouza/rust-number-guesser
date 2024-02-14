@@ -7,7 +7,7 @@ Welcome to the Guess-the-Number game written in Rust! Test your luck and see if 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/guess-the-number.git
+    git clone https://github.com/alvaropsouza/rust-number-guesser.git
     ```
 
 2. Navigate to the project directory:
